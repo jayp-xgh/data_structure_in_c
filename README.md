@@ -18,7 +18,7 @@ A linguagem de programação C é uma das mais antigas e influentes no mundo da 
 - Programação concorrente
 - Depuração
 - Boas práticas de programação
-- Estrutura de dados
+- [Estrutura de dados](./Projects/%20data_structure/)
 
 ### 📍 Ponteiros
 
@@ -60,6 +60,8 @@ Aperfeiçoe-se a depurar seu código C com ferramentas como o gdb.
 
 Entenda melhor as boas práticas de programação em C, como manter o código legível e modular.
 
-### 🗂️ Estruturas de Dados
+### 🗂️ [Estruturas de Dados](./Projects/%20data_structure/)
 
 Incorpore novas habilidades sobre estruturas de dados em C, como arrays, listas ligadas e árvores.
+
+
