@@ -34,7 +34,7 @@ Structs são usados para agrupar variáveis relacionadas. Aprenda como criar e u
 
 ### 📂 Manipulação de Arquivos
 
-Aprenda a trabalhar com arquivos em C. Isso inclui como abrir, ler, escrever e fechar arquivos.
+Pratique o trabalho com arquivos em C. Isso inclui como abrir, ler, escrever e fechar arquivos.
 
 ### #️⃣ Pré-Processador
 
@@ -42,7 +42,7 @@ O pré-processador é usado para processar o código-fonte antes da compilação
 
 ### 📚 Funções de Biblioteca Padrão
 
-Aprenda a usar funções de biblioteca padrão como printf(), scanf(), fgets(), strcmp(), memcpy(), entre outras. Essas funções são amplamente usadas em programas C e são muito úteis.
+Adquira conhecimento ao usar funções de biblioteca padrão como printf(), scanf(), fgets(), strcmp(), memcpy(), entre outras. Essas funções são amplamente usadas em programas C e são muito úteis.
 
 ### 🔗 Ponteiros para Funções
 
@@ -50,17 +50,16 @@ Aprenda como usar ponteiros para funções, que permitem passar funções como a
 
 ### 🧑‍💻 Programação Concorrente
 
-Aprenda sobre programação concorrente em C, que permite que várias tarefas sejam executadas simultaneamente. Isso inclui o uso de threads e mutexes.
+Adquira habilidades sobre programação concorrente em C, que permite que várias tarefas sejam executadas simultaneamente. Isso inclui o uso de threads e mutexes.
 
 ### 🐛 Depuração
 
-Aprenda a depurar seu código C com ferramentas como o gdb.
+Aperfeiçoe-se a depurar seu código C com ferramentas como o gdb.
 
 ### 📝 Boas Práticas de Programação
 
-Aprenda boas práticas de programação em C, como manter o código legível e modular.
+Entenda melhor as boas práticas de programação em C, como manter o código legível e modular.
 
 ### 🗂️ Estruturas de Dados
 
-Aprenda sobre estruturas de dados em C, como arrays, listas ligadas e árvores.
-
+Incorpore novas habilidades sobre estruturas de dados em C, como arrays, listas ligadas e árvores.
