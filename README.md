@@ -12,7 +12,7 @@ A linguagem de programação C é uma das mais antigas e influentes no mundo da 
 - Alocação de memória
 - Estruturas
 - Arquivos
-- Pré-processador
+- [Pré-processador](./Projects/pre_processor/)
 - Funções de biblioteca padrão
 - Ponteiros para funções
 - Programação concorrente
@@ -36,7 +36,7 @@ Structs são usados para agrupar variáveis relacionadas. Aprenda como criar e u
 
 Pratique o trabalho com arquivos em C. Isso inclui como abrir, ler, escrever e fechar arquivos.
 
-### #️⃣ Pré-Processador
+### #️⃣ [Pré-Processador](./Projects/pre_processor/)
 
 O pré-processador é usado para processar o código-fonte antes da compilação. Aprenda a usar diretivas de pré-processamento como #include, #define e #ifdef.
 
