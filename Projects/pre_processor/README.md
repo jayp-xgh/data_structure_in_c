@@ -1,4 +1,4 @@
-## Pré-processadores em C
+# Pré-processadores em C
 
 Em linguagens de programação como C, os pré-processadores são uma parte importante do processo de compilação. Eles permitem que o programador modifique o código-fonte antes que ele seja compilado, adicionando recursos adicionais à linguagem.
 
@@ -31,3 +31,8 @@ Nesse código, a diretiva `#include <math.h>` informa ao pré-processador que in
 ### Conclusão
 
 Os pré-processadores em C permitem que os programadores adicionem recursos adicionais à linguagem e tornem o código mais fácil de manter. Eles são uma parte importante do processo de compilação e são usados ​​amplamente em muitos programas em C. Saber como usá-los pode ajudar os programadores a criar códigos mais eficientes e legíveis.
+
+
+### Exemplo visual:
+
+![Exemplo visual linked_list](./img/pre_processadores.png)
