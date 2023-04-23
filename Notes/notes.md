@@ -1,13 +1,19 @@
 ## Flags de impressão
 
 
-- `%d` Usado para imprimir valores inteiros de uma váriavel
+- `%d` Usado para imprimir valores inteiros de uma váriavel.
 
-- `%lu` Usado para imprimir valores inteiros com sinais grandes.
+- `%s` Usado para imprimir uma cadeia de caracteres.
 
-- `%lu` Usado para imprimir valores inteiros sem sinal representados pelo tipo unsigned long int.
+- `%lu` Usado para imprimir um número inteiro longo sem sinal (unsigned long) em base decimal. 
+
+- `%ld` Usado para imprimir um número inteiro longo com sinal (signed long) em base decimal.
 
 - `%u` Usado para imprimir valores inteiros sem sinal representados pelo tipo unsigned long int.
+
+- `%lld`Usado para imprimir valores long long int com sinal em base decimal.
+
+- `%llu` Usado para imprimir valores long long int sem sinal em base decimal.
 
 - `sizeof()` Um operador que retorna o tamanho em bytes de um tipo de dado ou variável. 
 
