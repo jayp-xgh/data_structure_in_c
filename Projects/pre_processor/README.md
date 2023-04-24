@@ -10,7 +10,7 @@ O pré-processador é responsável por realizar tarefas como incluir arquivos de
 
 ### Exemplo de uso do pré-processador
 
-Um exemplo comum do uso de um pré-processador em C é a inclusão de arquivos de cabeçalho. Digamos que você tenha um programa que precise usar funções matemáticas complexas. Em vez de escrever essas funções do zero, você pode incluir o arquivo de cabeçalho "math.h", que contém essas funções pré-definidas. Aqui está um exemplo:
+Um exemplo comum do uso de um pré-processador em C é a inclusão de arquivos de cabeçalho. Digamos que você tenha um programa que precise usar funções matemáticas complexas. Em vez de escrever essas funções do zero, você pode incluir o arquivo de cabeçalho `math.h`, que contém essas funções pré-definidas. Aqui está um exemplo:
 
 ```c
 

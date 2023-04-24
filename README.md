@@ -1,11 +1,10 @@
 - [Anotações](./Notes/notes.md)
 
-
 # Estudos Aprofundados em Linguagem C
 
 Este repositório contém estudos aprofundados na linguagem de programação C, abrangendo tópicos como ponteiros, alocação de memória, structs, manipulação de arquivos, pré-processador, funções de biblioteca padrão, ponteiros para funções, programação concorrente, depuração e boas práticas de programação.
 
-## Por que estudar C?
+## Por que estudar C ?
 
 A linguagem de programação C é uma das mais antigas e influentes no mundo da computação. Ela tem sido usada para desenvolver sistemas operacionais, compiladores, bancos de dados, jogos e uma infinidade de outras aplicações. Aprender C pode ser um passo importante para se tornar um programador mais completo e capaz de resolver problemas complexos de maneira eficiente.
 
@@ -29,7 +28,7 @@ Os ponteiros são uma parte fundamental da linguagem C e são frequentemente usa
 
 ### Alocação de Memória
 
-A alocação dinâmica de memória é uma característica importante da linguagem C. Aprenda como alocar e liberar memória com funções como malloc(), calloc(), realloc() e free().
+A alocação dinâmica de memória é uma característica importante da linguagem C. Aprenda como alocar e liberar memória com funções como `malloc()`, `calloc()`, `realloc()` e `free()`.
 
 ### Structs
 
@@ -41,11 +40,11 @@ Pratique o trabalho com arquivos em C. Isso inclui como abrir, ler, escrever e f
 
 ### [Pré-Processador](./Projects/pre_processor/)
 
-O pré-processador é usado para processar o código-fonte antes da compilação. Aprenda a usar diretivas de pré-processamento como #include, #define e #ifdef.
+O pré-processador é usado para processar o código-fonte antes da compilação. Aprenda a usar diretivas de pré-processamento como `#include`, `#define` e `#ifdef`.
 
 ### Funções de Biblioteca Padrão
 
-Adquira conhecimento ao usar funções de biblioteca padrão como printf(), scanf(), fgets(), strcmp(), memcpy(), entre outras. Essas funções são amplamente usadas em programas C e são muito úteis.
+Adquira conhecimento ao usar funções de biblioteca padrão como `printf()`, `scanf()`, `fgets()`, `strcmp()`, `memcpy()`, entre outras. Essas funções são amplamente usadas em programas C e são muito úteis.
 
 ### Ponteiros para Funções
 
@@ -57,7 +56,7 @@ Adquira habilidades sobre programação concorrente em C, que permite que vária
 
 ### Depuração
 
-Aperfeiçoe-se a depurar seu código C com ferramentas como o gdb.
+Aperfeiçoe-se a depurar seu código C com ferramentas como o `gdb`.
 
 ### Boas Práticas de Programação
 
@@ -66,5 +65,3 @@ Entenda melhor as boas práticas de programação em C, como manter o código le
 ### [Estruturas de Dados](./Projects/%20data_structure/)
 
 Incorpore novas habilidades sobre estruturas de dados em C, como arrays, listas ligadas e árvores.
-
-

@@ -1,4 +1,4 @@
-# A incrível lista encadeada 📜
+# A incrível lista encadeada
 
 Você já ouviu falar sobre a lista encadeada? Ela é uma estrutura de dados incrível e dinâmica que consiste em um conjunto de nós interligados através de ponteiros.
 
