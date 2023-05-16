@@ -4,7 +4,7 @@
 
 Este repositório contém estudos aprofundados na linguagem de programação C, abrangendo tópicos como ponteiros, alocação de memória, structs, manipulação de arquivos, pré-processador, funções de biblioteca padrão, ponteiros para funções, programação concorrente, depuração e boas práticas de programação.
 
-## Por que estudar C ?
+## Por que estudar C?
 
 A linguagem de programação C é uma das mais antigas e influentes no mundo da computação. Ela tem sido usada para desenvolver sistemas operacionais, compiladores, bancos de dados, jogos e uma infinidade de outras aplicações. Aprender C pode ser um passo importante para se tornar um programador mais completo e capaz de resolver problemas complexos de maneira eficiente.
 
